@@ -1,2 +1,19 @@
 ﻿body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+p {
+    color: white;
+}
+
+#Meatball{
+    font-style: italic;
 }
